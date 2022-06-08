@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6e7deBc98d6CAbF1600f49db39d9212e16d11D62",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x6e7debc98d6cabf1600f49db39d9212e16d11d62#code",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 18
+  },
+  "NFT_NAME": "asas",
+  "SYMBOL": "bQY3o5IC7r",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/asas-bqy3o5ic7r",
+  "SHOW_BACKGROUND": true
+}
